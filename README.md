@@ -4,7 +4,7 @@
 
 This project implements a complete data workflow for exploring NYC Airbnb listing data. The notebook loads and cleans the data, runs exploratory analysis to find features that influence price, and produces visualizations to support insights. The goal is to identify which features are most relevant to listing price and to practice reproducible EDA suitable as a foundation for future modeling.
 
-## What You Built
+## What was Built
 
 - **data_workflow.ipynb**: A Jupyter notebook that follows the project task structure (Tasks 1, 3–8). It includes:
   - Data ingestion (load CSV, display first rows)
