@@ -1,0 +1,30 @@
+# Data folders
+**/data/
+data/
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+*.ico
+*.webp
+*.tiff
+*.tif
+
+# CSV
+*.csv
+
+# Excel
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+
+# Python virtual environment folders
+.venv/
+venv/
+**/.venv/
+**/venv/
